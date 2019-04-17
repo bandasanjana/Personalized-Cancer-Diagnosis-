@@ -18,3 +18,12 @@ Data file's information:
 
 training_variants (ID , Gene, Variations, Class)
 training_text (ID, Text)
+
+
+Type of Machine Learning Problem:
+There are nine different classes a genetic mutation can be classified into => Multi class classification problem
+
+
+Performance Metric
+Multi class log-loss
+Confusion matrix
